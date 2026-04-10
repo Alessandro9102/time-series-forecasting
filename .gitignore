@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv_Cluster_JACO/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modelos
+models/
+
+# Variables de entorno
+.env
