@@ -1,1 +1,25 @@
+# Entornos virtuales
+venv/
+venv_*/
+env/
+venv_1_cluster/
 
+# VSCode
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (opcional, depende de tu proyecto)
+data/raw/
+data/interim/
+
+# Sistema
+.DS_Store
+
+# Archivos de configuración de VSCode (opcional, si no quieres compartir tu configuración personalizada)
+.vscode/
