@@ -3,6 +3,7 @@ venv/
 venv_*/
 env/
 venv_1_cluster/
+venv_Cluster_1
 
 # VSCode
 .vscode/
