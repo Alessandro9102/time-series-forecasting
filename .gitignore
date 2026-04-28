@@ -1,7 +1,6 @@
 # Entornos virtuales
 venv/
 venv_*/
-env/
 venv_1_cluster/
 venv_Cluster_1
 
@@ -16,8 +15,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Datos (opcional, depende de tu proyecto)
-data/raw/
-data/interim/
+#data/raw/
+#data/interim/
 
 # Sistema
 .DS_Store
